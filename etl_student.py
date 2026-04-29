@@ -7,10 +7,10 @@
 # # Change ONLY your PostgreSQL password here
 
 # DB_USER = "postgres"
-# DB_PASSWORD = "bhas%402000"  # <-- change this
+# DB_PASSWORD = "your_password"  # <-- change this
 # DB_HOST = "localhost"
 # DB_PORT = "5432"
-# DB_NAME = "bhaskardb"
+# DB_NAME = "database_name"
 
 # CSV_PATH = "studentdata_raw.csv"
 # TABLE_NAME = "enrollments_cleaned"
